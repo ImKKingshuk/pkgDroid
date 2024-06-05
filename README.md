@@ -89,4 +89,4 @@ The developer of `pkgDroid` is not responsible for any misuse or illegal activit
 
 ## Acknowledgments
 
-`pkgDroid` is developed for educational and research purposes. It should be used with caution and in compliance with legal guidelines. The developer acknowledges and appreciates the effort that went into creating this powerful and versatile APK manipulation tool.
+`pkgDroid` is developed for educational and research purposes. It should be used with caution and in compliance with legal guidelines. The developer of this tool is not responsible for any misuse of this tool.
