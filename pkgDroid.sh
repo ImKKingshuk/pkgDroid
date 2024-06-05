@@ -14,7 +14,7 @@ print_banner() {
     echo "******************************************"
     echo "*                 pkgDroid               *"
     echo "*      The Ultimate Android APK Tool     *"
-    echo "*                  v1.0.1                *"
+    echo "*                  v1.2.1                *"
     echo "*      ----------------------------      *"
     echo "*                        by @ImKKingshuk *"
     echo "* Github- https://github.com/ImKKingshuk *"
