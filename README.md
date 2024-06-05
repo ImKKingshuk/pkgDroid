@@ -2,7 +2,7 @@
 
 pkgDroid is a versatile and lightweight command-line tool crafted for comprehensive Android APK manipulation. Packed with advanced functionalities, pkgDroid goes beyond the basics to offer a robust toolkit for APK modding, cracking, extreme modification, and reverse engineering. Dive into the depths of Android app internals with pkgDroid and unleash a new realm of possibilities!
 
-## Whats New ( v1.2.0 )
+## Whats New ( v1.2.1 )
 
 - Added APK Comparison (Resources, Smali, Manifest etc.)
 - Added Rebuild APK
